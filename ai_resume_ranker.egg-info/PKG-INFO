@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ai-resume-ranker
+Version: 0.1
+Author: Keshav
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
+Requires-Dist: pdfplumber
+Requires-Dist: python-docx
+Requires-Dist: sentence-transformers
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
